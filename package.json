@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "NA",
-  "private": true
+  "author": "Mike Plummer",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-to-png-converter": "^0.2.1"
+  }
 }
